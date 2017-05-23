@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to YouFoodie
 
-You can use the [editor on GitHub](https://github.com/tganzarolli/baboo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![eet smakelijk](https://cg5aeq.dm2301.livefilestore.com/y4pYrgsfAIU6TdTE4qK4rq1cHYZGKt_kl6trrXU8Gskit_SdrXFST7RGAnzFy-GpdkNC_ozfp4u7MF_xPFfFtIa8LbaoNNPb8_oIIvq0pGl9MPseVtUtizXRqsCiFQCNrSbZqLzTGyBySLGFbE6c21HoBFgs0izuIW3yvfUcMgM8sG4BLMfKGh4Kq5gSleTOVdRs1JOR1PcNOP-QmsR7nm3AQ/youfoodie_alpha.jpeg?psid=1)
 
 ### Markdown
 
