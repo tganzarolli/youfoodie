@@ -1,6 +1,6 @@
 ## Welcome to YouFoodie
 
-![eet smakelijk](https://www.dropbox.com/s/7mepqo78vffpec3/youfoodie_alpha.jpeg?dl=0)
+![eet smakelijk](http://i.imgur.com/Lt9DBcy.jpg)
 ## Cooking!
 ![cook](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/3419_10151003843570927_1378240463_n.jpg?oh=0a2d93cd7baf183b8a476992307c749d&oe=59C1D733)
 ## Celebrating success!
