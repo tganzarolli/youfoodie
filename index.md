@@ -9,8 +9,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Let's cook! 
+![cook](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/3419_10151003843570927_1378240463_n.jpg?oh=0a2d93cd7baf183b8a476992307c749d&oe=59C1D733)
+## Or have a toast
+![toast](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/15492197_10207898605730247_3371910342796902549_n.jpg?oh=479f230f7994326c07052ba620b2a472&oe=599D9EF4)
 ### Header 3
 
 - Bulleted
