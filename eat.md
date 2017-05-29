@@ -1,6 +1,4 @@
-## Welcome to YouFoodie
-
-### Watch chefs in action and book now
+## Watch chefs in action and book now
 <div style="width:100%;display: flex;align-items: center;justify-content: center;">
 	
 <img src="https://cm5ueq.dm2301.livefilestore.com/y4m3NPxrcb2G7NAuW3cH6cKP8SPufIG9Qp89DTrMyzjQ6ItRfL83aijmplS7vQKovVWksXBSu3MHaorUHTKOdehcxihYYkjn9tyvVxCuhJU2ta8kMPEhAOXcQwzPzTm323SQ313csNhDSRKxjcKJ5e-5eYO4N9b78G42MI_wMS0KCTvU8fDMtYYsVbTpo3WJdVFRSHN4MgMV9bkVVLmbMV78g?width=660&height=216&cropmode=none">
