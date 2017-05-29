@@ -9,8 +9,8 @@ Bring your own alchohol! Just grab something at one of our partners!
 <div style="width:100%;display: flex;align-items: center;justify-content: center;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19491.53600030314!2d4.8938147802279826!3d52.362404995604905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sgall+gall!5e0!3m2!1sen!2snl!4v1495999767815" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-### Video sample
+### Check our italan cook (Amsterdam Business School special) !
 
 <div style="width:100%;display: flex;align-items: center;justify-content: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TLGyScZljYc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7mFjPisbqU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
