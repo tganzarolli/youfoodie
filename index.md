@@ -1,14 +1,10 @@
 ## Welcome to YouFoodie
 
-![eet smakelijk](http://i.imgur.com/Lt9DBcy.jpg)
-## Cooking!
-![cook](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/3419_10151003843570927_1378240463_n.jpg?oh=0a2d93cd7baf183b8a476992307c749d&oe=59C1D733)
-## Celebrating success!
-![toast](https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/15492197_10207898605730247_3371910342796902549_n.jpg?oh=479f230f7994326c07052ba620b2a472&oe=599D9EF4)
+### Help us by filling the survey below
+
+<div style="width:100%;display: flex;align-items: center;justify-content: center;">
+<script>(function(t,e,n,a){var c,o,s;t.SMCX=t.SMCX||[],e.getElementById(a)||(c=e.getElementsByTagName(n),o=c[c.length-1],s=e.createElement(n),s.type="text/javascript",s.async=!0,s.id=a,s.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/7737HY7DJJTaFLZyqjnOImRFS7dZaDKamiNch7CxuN_2BBKLVpZauK_2BvRIVF38aClq.js"].join(""),o.parentNode.insertBefore(s,o))})(window,document,"script","smcx-sdk");</script>
+</div>
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tganzarolli/baboo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Check the results](https://www.surveymonkey.com/results/SM-WWPZQMBH/browse/)
